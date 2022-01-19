@@ -1,0 +1,383 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Acer\Desktop\Backend_Parking _App\android\app\src\main\AndroidManifest.xml:1:1-34:12
+INJECTED from C:\Users\Acer\Desktop\Backend_Parking _App\android\app\src\main\AndroidManifest.xml:1:1-34:12
+INJECTED from C:\Users\Acer\Desktop\Backend_Parking _App\android\app\src\main\AndroidManifest.xml:1:1-34:12
+INJECTED from C:\Users\Acer\Desktop\Backend_Parking _App\android\app\src\main\AndroidManifest.xml:1:1-34:12
+MERGED from C:\Users\Acer\Desktop\Backend_Parking _App\android\app\src\main\AndroidManifest.xml:1:1-34:12
+MERGED from [com.facebook.flipper:flipper:0.99.0] C:\Users\Acer\.gradle\caches\transforms-3\20c553d877083bdb3f0f8af4abd12ec7\transformed\jetified-flipper-0.99.0\AndroidManifest.xml:8:1-18:12
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.99.0] C:\Users\Acer\.gradle\caches\transforms-3\7028a9ef106ac6e9d10b107fa4fb3faa\transformed\jetified-flipper-network-plugin-0.99.0\AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.99.0] C:\Users\Acer\.gradle\caches\transforms-3\0ecbc8704a9383eefef8e12253f14569\transformed\jetified-flipper-fresco-plugin-0.99.0\AndroidManifest.xml:8:1-15:12
+MERGED from [:react-native-community_geolocation] C:\Users\Acer\Desktop\Backend_Parking _App\node_modules\@react-native-community\geolocation\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-maps] C:\Users\Acer\Desktop\Backend_Parking _App\node_modules\react-native-maps\lib\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-12:12
+MERGED from [:react-native-safe-area-context] C:\Users\Acer\Desktop\Backend_Parking _App\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] C:\Users\Acer\Desktop\Backend_Parking _App\node_modules\react-native-screens\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-vector-icons] C:\Users\Acer\Desktop\Backend_Parking _App\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.react:react-native:0.66.3] C:\Users\Acer\.gradle\caches\transforms-3\9af458c496d7d26865e72e85b9f6196b\transformed\jetified-react-native-0.66.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\c36847d84d5f1017cf09137cd9878b4c\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [org.webkit:android-jsc:r250230] C:\Users\Acer\.gradle\caches\transforms-3\2d5058ef8f3c2f93378dc3e55a6a1c56\transformed\jetified-android-jsc-r250230\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:flipper:2.5.0] C:\Users\Acer\.gradle\caches\transforms-3\07f83ac046862c8be0cdc956ee038620\transformed\jetified-flipper-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:stetho:2.5.0] C:\Users\Acer\.gradle\caches\transforms-3\154cb6bfc1297f035c77f08b58145e00\transformed\jetified-stetho-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:2.5.0] C:\Users\Acer\.gradle\caches\transforms-3\507a2dbabb084ce9b180cad3d2889283\transformed\jetified-fresco-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:soloader:2.5.0] C:\Users\Acer\.gradle\caches\transforms-3\8c1f13adbc378c7f0f47e5c59d74afe5\transformed\jetified-soloader-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] C:\Users\Acer\.gradle\caches\transforms-3\b24450bf659ed4d94e8425b14f547d41\transformed\jetified-imagepipeline-okhttp3-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.5.0] C:\Users\Acer\.gradle\caches\transforms-3\6c0a06649c2589435ccd1ea70685726c\transformed\jetified-drawee-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.5.0] C:\Users\Acer\.gradle\caches\transforms-3\b5daea20bdb61e5b635d0f62108363bb\transformed\jetified-nativeimagefilters-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-native:2.5.0] C:\Users\Acer\.gradle\caches\transforms-3\0054e29f19cc02de194523e2382758ee\transformed\jetified-memory-type-native-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-java:2.5.0] C:\Users\Acer\.gradle\caches\transforms-3\ba06cdea5c4f24bfcb7857225494bf24\transformed\jetified-memory-type-java-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-native:2.5.0] C:\Users\Acer\.gradle\caches\transforms-3\105de07d0fc6f2520d0a3c2b6e01c123\transformed\jetified-imagepipeline-native-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.10.1] C:\Users\Acer\.gradle\caches\transforms-3\2a3acb63e4539e5ffb54fffac02d7165\transformed\jetified-soloader-0.10.1\AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.5.0] C:\Users\Acer\.gradle\caches\transforms-3\f29ddf90cb742ec32e1b65b095a4dbdc\transformed\jetified-memory-type-ashmem-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.5.0] C:\Users\Acer\.gradle\caches\transforms-3\9c3f35aade314a88ef2543786383f587\transformed\jetified-imagepipeline-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.5.0] C:\Users\Acer\.gradle\caches\transforms-3\8928f4d96d9cd2a2cd560b3230417564\transformed\jetified-nativeimagetranscoder-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.5.0] C:\Users\Acer\.gradle\caches\transforms-3\08a6c1e9e86b99ec55c46ec27939981b\transformed\jetified-imagepipeline-base-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Acer\.gradle\caches\transforms-3\155516589a2fa086edfaf76ea82f8c24\transformed\material-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\Acer\.gradle\caches\transforms-3\91b51f49d4836e04da7161cb0b31fc82\transformed\appcompat-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\Acer\.gradle\caches\transforms-3\274bd152bd90df899ec17260c14e15e3\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.1.0] C:\Users\Acer\.gradle\caches\transforms-3\2731394fbe8875de837a6d02231aca6f\transformed\jetified-autofill-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:middleware:2.5.0] C:\Users\Acer\.gradle\caches\transforms-3\845fc854609d4b827f27de458f900176\transformed\jetified-middleware-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:ui-common:2.5.0] C:\Users\Acer\.gradle\caches\transforms-3\bb070330fe13956c2c65a11312976551\transformed\jetified-ui-common-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\Acer\.gradle\caches\transforms-3\4ec1ffeb8a68b01b9e2e8e69027317a0\transformed\jetified-appcompat-resources-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Acer\.gradle\caches\transforms-3\1ae5b2923e395611b5f2f75e2734f49d\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\c483996aab7339c18ddfdb3ba9e312ec\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Acer\.gradle\caches\transforms-3\0303a36f281c79b06660c53afb875771\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Acer\.gradle\caches\transforms-3\1eb227d6de9bf5b1f04bfb6adf0bd20d\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Acer\.gradle\caches\transforms-3\d1838ad9afc6e7d52cb3fd591e80e6db\transformed\jetified-play-services-location-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Acer\.gradle\caches\transforms-3\1ce56913cdeba653893e04203112573b\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Acer\.gradle\caches\transforms-3\b57fa158a722a138c316b438c000525c\transformed\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Acer\.gradle\caches\transforms-3\74cb0bbba10433696990403803f62642\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Acer\.gradle\caches\transforms-3\6e58d8edc7d80d83ce6aa9c1aaa342cc\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\b876c3e9f06c6a0fa21b69096f8d5969\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\Acer\.gradle\caches\transforms-3\28ee5da8bb8c4182a513426340e5ffdc\transformed\fragment-1.3.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\Acer\.gradle\caches\transforms-3\7f6c2f3b473871879dc1df7846c12fe8\transformed\jetified-activity-1.2.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\ba0071e17dc9252dbfc2dbba02fced3f\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\2578a4393ee8e1fd80704257c7713785\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Acer\.gradle\caches\transforms-3\711e68f2d0439351378962ea0a2974b8\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\3d196403dc22c125550c77ba9bee7719\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Acer\.gradle\caches\transforms-3\a853fb72d83f8963ed9dfd0cbe31f666\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Acer\.gradle\caches\transforms-3\b7dbda6ce20616185af1f625af3f3aa8\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\0b4ffca8a105c01459335a42bac69276\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.5.0] C:\Users\Acer\.gradle\caches\transforms-3\155678b0c9c359c119f34b535c712abd\transformed\core-1.5.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\3fcbff89524cd88cf5bafb10be44bb2d\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Acer\.gradle\caches\transforms-3\d74fd964c1f2635ce829e102556ec93d\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Acer\.gradle\caches\transforms-3\8d7fb2d99c6ca937c77d6f7672bcfccc\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Acer\.gradle\caches\transforms-3\f47db16e1a556327bdf930472da72626\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Acer\.gradle\caches\transforms-3\6d3071b47567df24d979b06e9e259be3\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\Acer\.gradle\caches\transforms-3\8d8fe27a05a7903f10720b384dabe69c\transformed\sqlite-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\ea60706e87d4e70cd9fab5ff6fb8dd13\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Acer\.gradle\caches\transforms-3\bc4b8eb5462e3db3a6e53fddc0eefea2\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\e84de25b6d9b45b3c5e0b1c4f4b2d450\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Acer\.gradle\caches\transforms-3\4c8b8f386eceec24041320ad7a097493\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Acer\.gradle\caches\transforms-3\838f758935086cedaba105200297a31b\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Acer\.gradle\caches\transforms-3\cd88b7133ef7c3d2784a4cf34717d317\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Acer\.gradle\caches\transforms-3\04d7161226b19210826821ec180f9e38\transformed\jetified-android-maps-utils-0.5\AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:2.5.0] C:\Users\Acer\.gradle\caches\transforms-3\5da4f8ba13e97b6e37b85eedbc1f5b5d\transformed\jetified-fbcore-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\ce28189680684b9f0f7736477a712100\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\Acer\Desktop\Backend_Parking _App\android\app\src\debug\AndroidManifest.xml:2:1-13:12
+INJECTED from C:\Users\Acer\Desktop\Backend_Parking _App\android\app\src\debug\AndroidManifest.xml:2:1-13:12
+INJECTED from C:\Users\Acer\Desktop\Backend_Parking _App\android\app\src\debug\AndroidManifest.xml:2:1-13:12
+	package
+		ADDED from C:\Users\Acer\Desktop\Backend_Parking _App\android\app\src\main\AndroidManifest.xml:2:3-30
+		INJECTED from C:\Users\Acer\Desktop\Backend_Parking _App\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Acer\Desktop\Backend_Parking _App\android\app\src\main\AndroidManifest.xml:2:3-30
+		INJECTED from C:\Users\Acer\Desktop\Backend_Parking _App\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Acer\Desktop\Backend_Parking _App\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Acer\Desktop\Backend_Parking _App\android\app\src\main\AndroidManifest.xml:1:1-34:12
+		INJECTED from C:\Users\Acer\Desktop\Backend_Parking _App\android\app\src\debug\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Acer\Desktop\Backend_Parking _App\android\app\src\debug\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\Acer\Desktop\Backend_Parking _App\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Acer\Desktop\Backend_Parking _App\android\app\src\main\AndroidManifest.xml:1:1-34:12
+		INJECTED from C:\Users\Acer\Desktop\Backend_Parking _App\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Acer\Desktop\Backend_Parking _App\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Acer\Desktop\Backend_Parking _App\android\app\src\main\AndroidManifest.xml:4:5-67
+MERGED from [com.facebook.flipper:flipper:0.99.0] C:\Users\Acer\.gradle\caches\transforms-3\20c553d877083bdb3f0f8af4abd12ec7\transformed\jetified-flipper-0.99.0\AndroidManifest.xml:15:5-67
+MERGED from [com.facebook.flipper:flipper:0.99.0] C:\Users\Acer\.gradle\caches\transforms-3\20c553d877083bdb3f0f8af4abd12ec7\transformed\jetified-flipper-0.99.0\AndroidManifest.xml:15:5-67
+MERGED from [:react-native-maps] C:\Users\Acer\Desktop\Backend_Parking _App\node_modules\react-native-maps\lib\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-67
+MERGED from [:react-native-maps] C:\Users\Acer\Desktop\Backend_Parking _App\node_modules\react-native-maps\lib\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Acer\.gradle\caches\transforms-3\1eb227d6de9bf5b1f04bfb6adf0bd20d\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Acer\.gradle\caches\transforms-3\1eb227d6de9bf5b1f04bfb6adf0bd20d\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from C:\Users\Acer\Desktop\Backend_Parking _App\android\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Acer\Desktop\Backend_Parking _App\android\app\src\main\AndroidManifest.xml:5:5-7:3
+	android:name
+		ADDED from C:\Users\Acer\Desktop\Backend_Parking _App\android\app\src\main\AndroidManifest.xml:6:4-58
+application
+ADDED from C:\Users\Acer\Desktop\Backend_Parking _App\android\app\src\main\AndroidManifest.xml:8:3-14:17
+MERGED from C:\Users\Acer\Desktop\Backend_Parking _App\android\app\src\main\AndroidManifest.xml:8:3-14:17
+MERGED from C:\Users\Acer\Desktop\Backend_Parking _App\android\app\src\main\AndroidManifest.xml:8:3-14:17
+MERGED from C:\Users\Acer\Desktop\Backend_Parking _App\android\app\src\main\AndroidManifest.xml:15:5-33:19
+MERGED from C:\Users\Acer\Desktop\Backend_Parking _App\android\app\src\main\AndroidManifest.xml:15:5-33:19
+MERGED from [com.facebook.react:react-native:0.66.3] C:\Users\Acer\.gradle\caches\transforms-3\9af458c496d7d26865e72e85b9f6196b\transformed\jetified-react-native-0.66.3\AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.react:react-native:0.66.3] C:\Users\Acer\.gradle\caches\transforms-3\9af458c496d7d26865e72e85b9f6196b\transformed\jetified-react-native-0.66.3\AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.1] C:\Users\Acer\.gradle\caches\transforms-3\2a3acb63e4539e5ffb54fffac02d7165\transformed\jetified-soloader-0.10.1\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.1] C:\Users\Acer\.gradle\caches\transforms-3\2a3acb63e4539e5ffb54fffac02d7165\transformed\jetified-soloader-0.10.1\AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Acer\.gradle\caches\transforms-3\155516589a2fa086edfaf76ea82f8c24\transformed\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Acer\.gradle\caches\transforms-3\155516589a2fa086edfaf76ea82f8c24\transformed\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Acer\.gradle\caches\transforms-3\1eb227d6de9bf5b1f04bfb6adf0bd20d\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Acer\.gradle\caches\transforms-3\1eb227d6de9bf5b1f04bfb6adf0bd20d\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Acer\.gradle\caches\transforms-3\d1838ad9afc6e7d52cb3fd591e80e6db\transformed\jetified-play-services-location-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Acer\.gradle\caches\transforms-3\d1838ad9afc6e7d52cb3fd591e80e6db\transformed\jetified-play-services-location-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Acer\.gradle\caches\transforms-3\1ce56913cdeba653893e04203112573b\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Acer\.gradle\caches\transforms-3\1ce56913cdeba653893e04203112573b\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Acer\.gradle\caches\transforms-3\b57fa158a722a138c316b438c000525c\transformed\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Acer\.gradle\caches\transforms-3\b57fa158a722a138c316b438c000525c\transformed\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Acer\.gradle\caches\transforms-3\74cb0bbba10433696990403803f62642\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Acer\.gradle\caches\transforms-3\74cb0bbba10433696990403803f62642\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Acer\.gradle\caches\transforms-3\6e58d8edc7d80d83ce6aa9c1aaa342cc\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Acer\.gradle\caches\transforms-3\6e58d8edc7d80d83ce6aa9c1aaa342cc\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.5.0] C:\Users\Acer\.gradle\caches\transforms-3\155678b0c9c359c119f34b535c712abd\transformed\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] C:\Users\Acer\.gradle\caches\transforms-3\155678b0c9c359c119f34b535c712abd\transformed\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Acer\.gradle\caches\transforms-3\bc4b8eb5462e3db3a6e53fddc0eefea2\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Acer\.gradle\caches\transforms-3\bc4b8eb5462e3db3a6e53fddc0eefea2\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Acer\.gradle\caches\transforms-3\04d7161226b19210826821ec180f9e38\transformed\jetified-android-maps-utils-0.5\AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Acer\.gradle\caches\transforms-3\04d7161226b19210826821ec180f9e38\transformed\jetified-android-maps-utils-0.5\AndroidManifest.xml:7:5-11:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] C:\Users\Acer\.gradle\caches\transforms-3\155678b0c9c359c119f34b535c712abd\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\Acer\Desktop\Backend_Parking _App\android\app\src\main\AndroidManifest.xml:17:7-39
+	android:roundIcon
+		ADDED from C:\Users\Acer\Desktop\Backend_Parking _App\android\app\src\main\AndroidManifest.xml:19:7-52
+	tools:ignore
+		ADDED from C:\Users\Acer\Desktop\Backend_Parking _App\android\app\src\debug\AndroidManifest.xml:10:9-48
+	android:icon
+		ADDED from C:\Users\Acer\Desktop\Backend_Parking _App\android\app\src\main\AndroidManifest.xml:18:7-41
+	android:allowBackup
+		ADDED from C:\Users\Acer\Desktop\Backend_Parking _App\android\app\src\main\AndroidManifest.xml:20:7-34
+	tools:targetApi
+		ADDED from C:\Users\Acer\Desktop\Backend_Parking _App\android\app\src\debug\AndroidManifest.xml:9:9-29
+	android:theme
+		ADDED from C:\Users\Acer\Desktop\Backend_Parking _App\android\app\src\main\AndroidManifest.xml:21:7-38
+	android:name
+		ADDED from C:\Users\Acer\Desktop\Backend_Parking _App\android\app\src\main\AndroidManifest.xml:16:7-38
+	android:usesCleartextTraffic
+		ADDED from C:\Users\Acer\Desktop\Backend_Parking _App\android\app\src\debug\AndroidManifest.xml:8:9-44
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\Acer\Desktop\Backend_Parking _App\android\app\src\main\AndroidManifest.xml:10:5-12:63
+	android:value
+		ADDED from C:\Users\Acer\Desktop\Backend_Parking _App\android\app\src\main\AndroidManifest.xml:12:6-61
+	android:name
+		ADDED from C:\Users\Acer\Desktop\Backend_Parking _App\android\app\src\main\AndroidManifest.xml:11:6-51
+uses-sdk
+INJECTED from C:\Users\Acer\Desktop\Backend_Parking _App\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Acer\Desktop\Backend_Parking _App\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Acer\Desktop\Backend_Parking _App\android\app\src\main\AndroidManifest.xml
+MERGED from [com.facebook.flipper:flipper:0.99.0] C:\Users\Acer\.gradle\caches\transforms-3\20c553d877083bdb3f0f8af4abd12ec7\transformed\jetified-flipper-0.99.0\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.99.0] C:\Users\Acer\.gradle\caches\transforms-3\20c553d877083bdb3f0f8af4abd12ec7\transformed\jetified-flipper-0.99.0\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.99.0] C:\Users\Acer\.gradle\caches\transforms-3\7028a9ef106ac6e9d10b107fa4fb3faa\transformed\jetified-flipper-network-plugin-0.99.0\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.99.0] C:\Users\Acer\.gradle\caches\transforms-3\7028a9ef106ac6e9d10b107fa4fb3faa\transformed\jetified-flipper-network-plugin-0.99.0\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.99.0] C:\Users\Acer\.gradle\caches\transforms-3\0ecbc8704a9383eefef8e12253f14569\transformed\jetified-flipper-fresco-plugin-0.99.0\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.99.0] C:\Users\Acer\.gradle\caches\transforms-3\0ecbc8704a9383eefef8e12253f14569\transformed\jetified-flipper-fresco-plugin-0.99.0\AndroidManifest.xml:11:5-13:41
+MERGED from [:react-native-community_geolocation] C:\Users\Acer\Desktop\Backend_Parking _App\node_modules\@react-native-community\geolocation\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_geolocation] C:\Users\Acer\Desktop\Backend_Parking _App\node_modules\@react-native-community\geolocation\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-maps] C:\Users\Acer\Desktop\Backend_Parking _App\node_modules\react-native-maps\lib\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-maps] C:\Users\Acer\Desktop\Backend_Parking _App\node_modules\react-native-maps\lib\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] C:\Users\Acer\Desktop\Backend_Parking _App\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] C:\Users\Acer\Desktop\Backend_Parking _App\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] C:\Users\Acer\Desktop\Backend_Parking _App\node_modules\react-native-screens\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] C:\Users\Acer\Desktop\Backend_Parking _App\node_modules\react-native-screens\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] C:\Users\Acer\Desktop\Backend_Parking _App\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] C:\Users\Acer\Desktop\Backend_Parking _App\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.66.3] C:\Users\Acer\.gradle\caches\transforms-3\9af458c496d7d26865e72e85b9f6196b\transformed\jetified-react-native-0.66.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.66.3] C:\Users\Acer\.gradle\caches\transforms-3\9af458c496d7d26865e72e85b9f6196b\transformed\jetified-react-native-0.66.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\c36847d84d5f1017cf09137cd9878b4c\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\c36847d84d5f1017cf09137cd9878b4c\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [org.webkit:android-jsc:r250230] C:\Users\Acer\.gradle\caches\transforms-3\2d5058ef8f3c2f93378dc3e55a6a1c56\transformed\jetified-android-jsc-r250230\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r250230] C:\Users\Acer\.gradle\caches\transforms-3\2d5058ef8f3c2f93378dc3e55a6a1c56\transformed\jetified-android-jsc-r250230\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:flipper:2.5.0] C:\Users\Acer\.gradle\caches\transforms-3\07f83ac046862c8be0cdc956ee038620\transformed\jetified-flipper-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.5.0] C:\Users\Acer\.gradle\caches\transforms-3\07f83ac046862c8be0cdc956ee038620\transformed\jetified-flipper-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.5.0] C:\Users\Acer\.gradle\caches\transforms-3\154cb6bfc1297f035c77f08b58145e00\transformed\jetified-stetho-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.5.0] C:\Users\Acer\.gradle\caches\transforms-3\154cb6bfc1297f035c77f08b58145e00\transformed\jetified-stetho-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.5.0] C:\Users\Acer\.gradle\caches\transforms-3\507a2dbabb084ce9b180cad3d2889283\transformed\jetified-fresco-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.5.0] C:\Users\Acer\.gradle\caches\transforms-3\507a2dbabb084ce9b180cad3d2889283\transformed\jetified-fresco-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.5.0] C:\Users\Acer\.gradle\caches\transforms-3\8c1f13adbc378c7f0f47e5c59d74afe5\transformed\jetified-soloader-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.5.0] C:\Users\Acer\.gradle\caches\transforms-3\8c1f13adbc378c7f0f47e5c59d74afe5\transformed\jetified-soloader-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] C:\Users\Acer\.gradle\caches\transforms-3\b24450bf659ed4d94e8425b14f547d41\transformed\jetified-imagepipeline-okhttp3-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] C:\Users\Acer\.gradle\caches\transforms-3\b24450bf659ed4d94e8425b14f547d41\transformed\jetified-imagepipeline-okhttp3-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.5.0] C:\Users\Acer\.gradle\caches\transforms-3\6c0a06649c2589435ccd1ea70685726c\transformed\jetified-drawee-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.5.0] C:\Users\Acer\.gradle\caches\transforms-3\6c0a06649c2589435ccd1ea70685726c\transformed\jetified-drawee-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.5.0] C:\Users\Acer\.gradle\caches\transforms-3\b5daea20bdb61e5b635d0f62108363bb\transformed\jetified-nativeimagefilters-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.5.0] C:\Users\Acer\.gradle\caches\transforms-3\b5daea20bdb61e5b635d0f62108363bb\transformed\jetified-nativeimagefilters-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.5.0] C:\Users\Acer\.gradle\caches\transforms-3\0054e29f19cc02de194523e2382758ee\transformed\jetified-memory-type-native-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.5.0] C:\Users\Acer\.gradle\caches\transforms-3\0054e29f19cc02de194523e2382758ee\transformed\jetified-memory-type-native-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.5.0] C:\Users\Acer\.gradle\caches\transforms-3\ba06cdea5c4f24bfcb7857225494bf24\transformed\jetified-memory-type-java-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.5.0] C:\Users\Acer\.gradle\caches\transforms-3\ba06cdea5c4f24bfcb7857225494bf24\transformed\jetified-memory-type-java-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.5.0] C:\Users\Acer\.gradle\caches\transforms-3\105de07d0fc6f2520d0a3c2b6e01c123\transformed\jetified-imagepipeline-native-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.5.0] C:\Users\Acer\.gradle\caches\transforms-3\105de07d0fc6f2520d0a3c2b6e01c123\transformed\jetified-imagepipeline-native-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.10.1] C:\Users\Acer\.gradle\caches\transforms-3\2a3acb63e4539e5ffb54fffac02d7165\transformed\jetified-soloader-0.10.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.10.1] C:\Users\Acer\.gradle\caches\transforms-3\2a3acb63e4539e5ffb54fffac02d7165\transformed\jetified-soloader-0.10.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.5.0] C:\Users\Acer\.gradle\caches\transforms-3\f29ddf90cb742ec32e1b65b095a4dbdc\transformed\jetified-memory-type-ashmem-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.5.0] C:\Users\Acer\.gradle\caches\transforms-3\f29ddf90cb742ec32e1b65b095a4dbdc\transformed\jetified-memory-type-ashmem-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.5.0] C:\Users\Acer\.gradle\caches\transforms-3\9c3f35aade314a88ef2543786383f587\transformed\jetified-imagepipeline-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.5.0] C:\Users\Acer\.gradle\caches\transforms-3\9c3f35aade314a88ef2543786383f587\transformed\jetified-imagepipeline-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.5.0] C:\Users\Acer\.gradle\caches\transforms-3\8928f4d96d9cd2a2cd560b3230417564\transformed\jetified-nativeimagetranscoder-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.5.0] C:\Users\Acer\.gradle\caches\transforms-3\8928f4d96d9cd2a2cd560b3230417564\transformed\jetified-nativeimagetranscoder-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.5.0] C:\Users\Acer\.gradle\caches\transforms-3\08a6c1e9e86b99ec55c46ec27939981b\transformed\jetified-imagepipeline-base-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.5.0] C:\Users\Acer\.gradle\caches\transforms-3\08a6c1e9e86b99ec55c46ec27939981b\transformed\jetified-imagepipeline-base-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Acer\.gradle\caches\transforms-3\155516589a2fa086edfaf76ea82f8c24\transformed\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Acer\.gradle\caches\transforms-3\155516589a2fa086edfaf76ea82f8c24\transformed\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\Acer\.gradle\caches\transforms-3\91b51f49d4836e04da7161cb0b31fc82\transformed\appcompat-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\Acer\.gradle\caches\transforms-3\91b51f49d4836e04da7161cb0b31fc82\transformed\appcompat-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\Acer\.gradle\caches\transforms-3\274bd152bd90df899ec17260c14e15e3\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\Acer\.gradle\caches\transforms-3\274bd152bd90df899ec17260c14e15e3\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] C:\Users\Acer\.gradle\caches\transforms-3\2731394fbe8875de837a6d02231aca6f\transformed\jetified-autofill-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] C:\Users\Acer\.gradle\caches\transforms-3\2731394fbe8875de837a6d02231aca6f\transformed\jetified-autofill-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:middleware:2.5.0] C:\Users\Acer\.gradle\caches\transforms-3\845fc854609d4b827f27de458f900176\transformed\jetified-middleware-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:middleware:2.5.0] C:\Users\Acer\.gradle\caches\transforms-3\845fc854609d4b827f27de458f900176\transformed\jetified-middleware-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.5.0] C:\Users\Acer\.gradle\caches\transforms-3\bb070330fe13956c2c65a11312976551\transformed\jetified-ui-common-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.5.0] C:\Users\Acer\.gradle\caches\transforms-3\bb070330fe13956c2c65a11312976551\transformed\jetified-ui-common-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\Acer\.gradle\caches\transforms-3\4ec1ffeb8a68b01b9e2e8e69027317a0\transformed\jetified-appcompat-resources-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\Acer\.gradle\caches\transforms-3\4ec1ffeb8a68b01b9e2e8e69027317a0\transformed\jetified-appcompat-resources-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Acer\.gradle\caches\transforms-3\1ae5b2923e395611b5f2f75e2734f49d\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Acer\.gradle\caches\transforms-3\1ae5b2923e395611b5f2f75e2734f49d\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\c483996aab7339c18ddfdb3ba9e312ec\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\c483996aab7339c18ddfdb3ba9e312ec\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Acer\.gradle\caches\transforms-3\0303a36f281c79b06660c53afb875771\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Acer\.gradle\caches\transforms-3\0303a36f281c79b06660c53afb875771\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Acer\.gradle\caches\transforms-3\1eb227d6de9bf5b1f04bfb6adf0bd20d\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Acer\.gradle\caches\transforms-3\1eb227d6de9bf5b1f04bfb6adf0bd20d\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Acer\.gradle\caches\transforms-3\d1838ad9afc6e7d52cb3fd591e80e6db\transformed\jetified-play-services-location-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Acer\.gradle\caches\transforms-3\d1838ad9afc6e7d52cb3fd591e80e6db\transformed\jetified-play-services-location-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Acer\.gradle\caches\transforms-3\1ce56913cdeba653893e04203112573b\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Acer\.gradle\caches\transforms-3\1ce56913cdeba653893e04203112573b\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Acer\.gradle\caches\transforms-3\b57fa158a722a138c316b438c000525c\transformed\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Acer\.gradle\caches\transforms-3\b57fa158a722a138c316b438c000525c\transformed\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Acer\.gradle\caches\transforms-3\74cb0bbba10433696990403803f62642\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Acer\.gradle\caches\transforms-3\74cb0bbba10433696990403803f62642\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Acer\.gradle\caches\transforms-3\6e58d8edc7d80d83ce6aa9c1aaa342cc\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Acer\.gradle\caches\transforms-3\6e58d8edc7d80d83ce6aa9c1aaa342cc\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\b876c3e9f06c6a0fa21b69096f8d5969\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\b876c3e9f06c6a0fa21b69096f8d5969\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\Acer\.gradle\caches\transforms-3\28ee5da8bb8c4182a513426340e5ffdc\transformed\fragment-1.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\Acer\.gradle\caches\transforms-3\28ee5da8bb8c4182a513426340e5ffdc\transformed\fragment-1.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\Acer\.gradle\caches\transforms-3\7f6c2f3b473871879dc1df7846c12fe8\transformed\jetified-activity-1.2.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\Acer\.gradle\caches\transforms-3\7f6c2f3b473871879dc1df7846c12fe8\transformed\jetified-activity-1.2.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\ba0071e17dc9252dbfc2dbba02fced3f\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\ba0071e17dc9252dbfc2dbba02fced3f\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\2578a4393ee8e1fd80704257c7713785\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\2578a4393ee8e1fd80704257c7713785\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Acer\.gradle\caches\transforms-3\711e68f2d0439351378962ea0a2974b8\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Acer\.gradle\caches\transforms-3\711e68f2d0439351378962ea0a2974b8\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\3d196403dc22c125550c77ba9bee7719\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\3d196403dc22c125550c77ba9bee7719\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Acer\.gradle\caches\transforms-3\a853fb72d83f8963ed9dfd0cbe31f666\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Acer\.gradle\caches\transforms-3\a853fb72d83f8963ed9dfd0cbe31f666\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Acer\.gradle\caches\transforms-3\b7dbda6ce20616185af1f625af3f3aa8\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Acer\.gradle\caches\transforms-3\b7dbda6ce20616185af1f625af3f3aa8\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\0b4ffca8a105c01459335a42bac69276\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\0b4ffca8a105c01459335a42bac69276\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.5.0] C:\Users\Acer\.gradle\caches\transforms-3\155678b0c9c359c119f34b535c712abd\transformed\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] C:\Users\Acer\.gradle\caches\transforms-3\155678b0c9c359c119f34b535c712abd\transformed\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\3fcbff89524cd88cf5bafb10be44bb2d\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\3fcbff89524cd88cf5bafb10be44bb2d\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Acer\.gradle\caches\transforms-3\d74fd964c1f2635ce829e102556ec93d\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Acer\.gradle\caches\transforms-3\d74fd964c1f2635ce829e102556ec93d\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Acer\.gradle\caches\transforms-3\8d7fb2d99c6ca937c77d6f7672bcfccc\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Acer\.gradle\caches\transforms-3\8d7fb2d99c6ca937c77d6f7672bcfccc\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Acer\.gradle\caches\transforms-3\f47db16e1a556327bdf930472da72626\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Acer\.gradle\caches\transforms-3\f47db16e1a556327bdf930472da72626\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Acer\.gradle\caches\transforms-3\6d3071b47567df24d979b06e9e259be3\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Acer\.gradle\caches\transforms-3\6d3071b47567df24d979b06e9e259be3\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\Acer\.gradle\caches\transforms-3\8d8fe27a05a7903f10720b384dabe69c\transformed\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\Acer\.gradle\caches\transforms-3\8d8fe27a05a7903f10720b384dabe69c\transformed\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\ea60706e87d4e70cd9fab5ff6fb8dd13\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\ea60706e87d4e70cd9fab5ff6fb8dd13\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Acer\.gradle\caches\transforms-3\bc4b8eb5462e3db3a6e53fddc0eefea2\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Acer\.gradle\caches\transforms-3\bc4b8eb5462e3db3a6e53fddc0eefea2\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\e84de25b6d9b45b3c5e0b1c4f4b2d450\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\e84de25b6d9b45b3c5e0b1c4f4b2d450\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Acer\.gradle\caches\transforms-3\4c8b8f386eceec24041320ad7a097493\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Acer\.gradle\caches\transforms-3\4c8b8f386eceec24041320ad7a097493\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Acer\.gradle\caches\transforms-3\838f758935086cedaba105200297a31b\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Acer\.gradle\caches\transforms-3\838f758935086cedaba105200297a31b\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Acer\.gradle\caches\transforms-3\cd88b7133ef7c3d2784a4cf34717d317\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Acer\.gradle\caches\transforms-3\cd88b7133ef7c3d2784a4cf34717d317\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Acer\.gradle\caches\transforms-3\04d7161226b19210826821ec180f9e38\transformed\jetified-android-maps-utils-0.5\AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Acer\.gradle\caches\transforms-3\04d7161226b19210826821ec180f9e38\transformed\jetified-android-maps-utils-0.5\AndroidManifest.xml:5:5-43
+MERGED from [com.facebook.fresco:fbcore:2.5.0] C:\Users\Acer\.gradle\caches\transforms-3\5da4f8ba13e97b6e37b85eedbc1f5b5d\transformed\jetified-fbcore-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.5.0] C:\Users\Acer\.gradle\caches\transforms-3\5da4f8ba13e97b6e37b85eedbc1f5b5d\transformed\jetified-fbcore-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\ce28189680684b9f0f7736477a712100\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Acer\.gradle\caches\transforms-3\ce28189680684b9f0f7736477a712100\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Acer\Desktop\Backend_Parking _App\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\Acer\Desktop\Backend_Parking _App\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Acer\Desktop\Backend_Parking _App\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Acer\Desktop\Backend_Parking _App\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Acer\Desktop\Backend_Parking _App\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Acer\Desktop\Backend_Parking _App\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\Acer\Desktop\Backend_Parking _App\android\app\src\debug\AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from C:\Users\Acer\Desktop\Backend_Parking _App\android\app\src\debug\AndroidManifest.xml:5:22-75
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from C:\Users\Acer\Desktop\Backend_Parking _App\android\app\src\debug\AndroidManifest.xml:11:9-86
+	android:name
+		ADDED from C:\Users\Acer\Desktop\Backend_Parking _App\android\app\src\debug\AndroidManifest.xml:11:19-83
+activity#com.parkingmobile.MainActivity
+ADDED from C:\Users\Acer\Desktop\Backend_Parking _App\android\app\src\main\AndroidManifest.xml:22:7-32:18
+	android:label
+		ADDED from C:\Users\Acer\Desktop\Backend_Parking _App\android\app\src\main\AndroidManifest.xml:24:9-41
+	android:launchMode
+		ADDED from C:\Users\Acer\Desktop\Backend_Parking _App\android\app\src\main\AndroidManifest.xml:26:9-40
+	android:windowSoftInputMode
+		ADDED from C:\Users\Acer\Desktop\Backend_Parking _App\android\app\src\main\AndroidManifest.xml:27:9-66
+	android:configChanges
+		ADDED from C:\Users\Acer\Desktop\Backend_Parking _App\android\app\src\main\AndroidManifest.xml:25:9-86
+	android:name
+		ADDED from C:\Users\Acer\Desktop\Backend_Parking _App\android\app\src\main\AndroidManifest.xml:23:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Acer\Desktop\Backend_Parking _App\android\app\src\main\AndroidManifest.xml:28:9-31:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\Acer\Desktop\Backend_Parking _App\android\app\src\main\AndroidManifest.xml:29:13-65
+	android:name
+		ADDED from C:\Users\Acer\Desktop\Backend_Parking _App\android\app\src\main\AndroidManifest.xml:29:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Acer\Desktop\Backend_Parking _App\android\app\src\main\AndroidManifest.xml:30:13-73
+	android:name
+		ADDED from C:\Users\Acer\Desktop\Backend_Parking _App\android\app\src\main\AndroidManifest.xml:30:23-70
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.facebook.flipper:flipper:0.99.0] C:\Users\Acer\.gradle\caches\transforms-3\20c553d877083bdb3f0f8af4abd12ec7\transformed\jetified-flipper-0.99.0\AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from [com.facebook.flipper:flipper:0.99.0] C:\Users\Acer\.gradle\caches\transforms-3\20c553d877083bdb3f0f8af4abd12ec7\transformed\jetified-flipper-0.99.0\AndroidManifest.xml:16:22-73
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:react-native-maps] C:\Users\Acer\Desktop\Backend_Parking _App\node_modules\react-native-maps\lib\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from [:react-native-maps] C:\Users\Acer\Desktop\Backend_Parking _App\node_modules\react-native-maps\lib\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Acer\.gradle\caches\transforms-3\1eb227d6de9bf5b1f04bfb6adf0bd20d\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Acer\.gradle\caches\transforms-3\1eb227d6de9bf5b1f04bfb6adf0bd20d\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Acer\.gradle\caches\transforms-3\1eb227d6de9bf5b1f04bfb6adf0bd20d\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Acer\.gradle\caches\transforms-3\1eb227d6de9bf5b1f04bfb6adf0bd20d\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Acer\.gradle\caches\transforms-3\1eb227d6de9bf5b1f04bfb6adf0bd20d\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Acer\.gradle\caches\transforms-3\1eb227d6de9bf5b1f04bfb6adf0bd20d\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Acer\.gradle\caches\transforms-3\1eb227d6de9bf5b1f04bfb6adf0bd20d\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Acer\.gradle\caches\transforms-3\1eb227d6de9bf5b1f04bfb6adf0bd20d\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Acer\.gradle\caches\transforms-3\1ce56913cdeba653893e04203112573b\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Acer\.gradle\caches\transforms-3\1ce56913cdeba653893e04203112573b\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Acer\.gradle\caches\transforms-3\1ce56913cdeba653893e04203112573b\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Acer\.gradle\caches\transforms-3\1ce56913cdeba653893e04203112573b\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Acer\.gradle\caches\transforms-3\6e58d8edc7d80d83ce6aa9c1aaa342cc\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Acer\.gradle\caches\transforms-3\04d7161226b19210826821ec180f9e38\transformed\jetified-android-maps-utils-0.5\AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Acer\.gradle\caches\transforms-3\04d7161226b19210826821ec180f9e38\transformed\jetified-android-maps-utils-0.5\AndroidManifest.xml:8:9-10:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Acer\.gradle\caches\transforms-3\6e58d8edc7d80d83ce6aa9c1aaa342cc\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Acer\.gradle\caches\transforms-3\6e58d8edc7d80d83ce6aa9c1aaa342cc\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
